@@ -13,8 +13,6 @@ This project allows drawing in air using finger gestures with the help of comput
 - Air drawing
 - Gesture-based interaction
 
-## 📸 Demo
-(Add your screenshots here)
 
 ## 📌 Future Improvements
 - Multi-hand detection
